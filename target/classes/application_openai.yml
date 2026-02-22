@@ -1,0 +1,8 @@
+openai:
+  api-key: ${OPENAI_API_KEY}
+  base-url: https://api.openai.com/v1
+
+ai:
+  model: gpt-4o-mini
+  temperature: 0.2
+  timeout-seconds: 10
